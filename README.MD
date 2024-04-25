@@ -6,11 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
+
 <audio autoplay="autoplay" controls="controls">
 <source src="https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/202404251750.mp4" type="audio/mp4" />
 seu navegador não suporta HTML5
