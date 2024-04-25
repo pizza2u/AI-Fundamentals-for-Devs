@@ -11,10 +11,9 @@
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
 </a>
- <audio
-  src="https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/202404251750.mp4"
-  autoplay>
-  O seu navegador não suporta o elemento <code>audio</code>.
+<audio autoplay="autoplay" controls="controls">
+<source src="https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/202404251750.mp4" type="audio/mp4" />
+seu navegador não suporta HTML5
 </audio>
 </p>
 
