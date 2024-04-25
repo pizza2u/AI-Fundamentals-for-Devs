@@ -5,10 +5,6 @@
 />
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
-
 <div align="center">
     <p> Escute abaixo: </p>
  <a href = "https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/final.mp3"> AQUI!</a>
