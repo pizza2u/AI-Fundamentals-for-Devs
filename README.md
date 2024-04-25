@@ -8,7 +8,7 @@ Cada branch deste repositório representa um projeto diferente do bootcamp. Abai
 
 ### 1. Códigos
 
-- **Branch:** main`
+- **Branch:** `main`
 - **Descrição:** Nesta branch você encontrará os códigos de desafios feitos
 
 ### 2. Projeto E-BOOK
