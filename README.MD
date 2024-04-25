@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
- <a href = "https://pizza2u.github.io/AI-Fundamentals-for-Devs/"> Clique AQUI!</a>
+ <a href = "https://pizza2u.github.io/AI-Fundamentals-for-Devs/" target="_blank"> Clique AQUI!</a>
 </audio>
 </div>
 
