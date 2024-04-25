@@ -7,7 +7,7 @@
 
 <p align="center">
 
-<audio src="https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/final.mp3" controls preload></audio>
+<audio src="" controls preload></audio>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/final.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
