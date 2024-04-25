@@ -11,7 +11,7 @@
 
 <div align="center">
     <p> Escute abaixo: </p>
- <a>https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/final.mp3</a>
+ <a>href = "https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/final.mp3"</a>
 </audio>
 </div>
 
