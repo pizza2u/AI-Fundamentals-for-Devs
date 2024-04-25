@@ -6,11 +6,6 @@
 </p>
 
 <p align="center">
-
-<audio src="" controls preload></audio>
-</p>
-
-<p align="center">
     preview do podcast
 </p>
 
