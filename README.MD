@@ -11,11 +11,11 @@
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
 </a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
+ <audio
+  src="https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/202404251750.mp4"
+  autoplay>
+  O seu navegador não suporta o elemento <code>audio</code>.
+</audio>
 </p>
 
 <p align="center">
