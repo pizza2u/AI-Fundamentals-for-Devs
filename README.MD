@@ -11,12 +11,13 @@
 
 <div align="center">
     <p> Escute abaixo: </p>
-
-    <audio src="" controls title="Podcast editado"></audio>
+    <audio controls="controls">
+  <source type="audio/mp3" src="https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/final.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 </div>
 
 
-!audio[spocktech]( https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/final.mp3 ){ size=10 duration=10 cycle=forever }
 
 # Projeto Podcast Gerado por I.A.s
 
