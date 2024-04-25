@@ -7,10 +7,7 @@
 
 <p align="center">
 
-<audio autoplay="autoplay" controls="controls">
-<source src="https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/202404251750.mp4" type="audio/mp4" />
-seu navegador não suporta HTML5
-</audio>
+<audio src="https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/final.mp3" controls preload></audio>
 </p>
 
 <p align="center">
