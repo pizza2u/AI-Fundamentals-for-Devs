@@ -11,9 +11,7 @@
 
 <div align="center">
     <p> Escute abaixo: </p>
-    <audio controls="controls">
-  <source type="audio/mp3" src="https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/final.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
+ <a>https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/final.mp3</a>
 </audio>
 </div>
 
