@@ -6,7 +6,6 @@
 </p>
 
 <div align="center">
-    <p> Clique abaixo para ouvir: </p>
  <a href = "https://pizza2u.github.io/AI-Fundamentals-for-Devs/"> Clique AQUI!</a>
 </audio>
 </div>
