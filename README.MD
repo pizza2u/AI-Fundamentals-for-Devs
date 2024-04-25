@@ -10,6 +10,7 @@
 </p>
 
 <div align="center">
+    <p> Escute abaixo: </p>
     <audio src="https://github.com/pizza2u/AI-Fundamentals-for-Devs/blob/podcast/output/final.mp3" controls title="Podcast editado"></audio>
 </div>
 
