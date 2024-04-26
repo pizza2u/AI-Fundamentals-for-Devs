@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpockTech Podcast</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="icon.jpg">
+</head>
+<body>
+    
+    <div id="stars"></div>
+    <div class="container">
+        <div class="waviy">
+            <span style="--i:1">S</span>
+            <span style="--i:2">P</span>
+            <span style="--i:3">O</span>
+            <span style="--i:4">C</span>
+            <span style="--i:5">K</span>
+            <span style="--i:6">T</span>
+            <span style="--i:7">E</span>
+            <span style="--i:8">C</span>
+            <span style="--i:9">H</span>
+         
+           </div>
+        <div class="video-container">
+            <video id="podcast-video" controls>
+                <source src="output/spocktech.mp4" type="video/mp4">
+    
+            </video>
+        </div>
+        <a href="./index2.html"><button>Episódio 2</button></a>
+        <button id="listen-button">Escute agora o Episódio 1!</button>
+        
+    </div>
+
+    <script>
+        const listenButton = document.getElementById('listen-button');
+        const videoPlayer = document.getElementById('podcast-video');
+
+        listenButton.addEventListener('click', function() {
+            videoPlayer.play();
+        });
+    </script>
+</body>
+</html>
